@@ -1,2 +1,2 @@
 # Lyric
-Karaoke song lyrics of Ikaw, Ikaw, Ikaw by Eliza Maturan &amp; ICEBOX
+Karaoke song lyrics of Ikaw, Ikaw, Ikaw by Eliza Maturan &amp; ICEBOX made in Python.
